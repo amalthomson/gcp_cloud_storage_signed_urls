@@ -1,0 +1,5 @@
+Upload: curl -X PUT -T "path/to/local/file.txt" "UPLOAD_SIGNED_URL"
+
+Download: curl -o "path/to/local/destination.txt" "DOWNLOAD_SIGNED_URL"
+
+
